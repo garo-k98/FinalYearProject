@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975777787312",
+    "project_id": "final-project-a05ff",
+    "storage_bucket": "final-project-a05ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975777787312:android:72b234438b4e6ec7edba75",
+        "android_client_info": {
+          "package_name": "mobi.graff.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975777787312-h0casvqiet7p2qfdl43pak3va33snc20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDCUPCx0JyXrBnPZdgUK696CRirfnDF50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975777787312-h0casvqiet7p2qfdl43pak3va33snc20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
